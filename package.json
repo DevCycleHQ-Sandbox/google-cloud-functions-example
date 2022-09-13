@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@google-cloud/functions-framework": "^2.1.0",
+    "@devcycle/nodejs-server-sdk": "^1.2.7"
+  }
+}
